@@ -1,6 +1,9 @@
 # GDELT_Processor
 Script to process, clean, and publish GDELT data to ArcGIS online layers.
 
+<img width="2547" height="1257" alt="image" src="https://github.com/user-attachments/assets/c844a7f3-ce2a-403a-8366-cee85c26d030" />
+
+
 ## 1. Project Overview
 The **Automated GDELT Sentiment Pipeline** ingests near real-time data from the GDELT Project 2.0 Translation Export feed, filters instability-related events, computes statistical sentiment baselines, and publishes analyzed metrics to an ArcGIS Enterprise dashboard.
 
